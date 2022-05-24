@@ -1,1 +1,1 @@
-# EPFL -- Lab Immersion II (BIO502)
+# EPFL - Lab Immersion II (BIO502)
