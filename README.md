@@ -1,4 +1,4 @@
-# &Eacute;cole polytechnique fédérale de Lausanne (EPFL)
+# &Eacute;cole polytechnique f&eacute;d&eacute;rale de Lausanne (EPFL)
 
 ## Master's exchange program
 
